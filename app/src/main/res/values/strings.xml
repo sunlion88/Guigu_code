@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Guigu_code</string>
+    <string name="other">其他</string>
+    <string name="common">常用框架</string>
+    <string name="thirdparty">第三方</string>
+    <string name="custom">自定义控件</string>
+</resources>
